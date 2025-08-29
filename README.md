@@ -40,6 +40,12 @@ Now you can run it from anywhere:
 countdown 5m
 ```
 
+## Screenshot
+
+<p align="center">
+ <img width="" height="" alt="image" src="https://github.com/user-attachments/assets/264b927d-1b67-4f24-beb3-53072a970184" />
+</p>
+
 ---
 
 ## 🚀 Usage
