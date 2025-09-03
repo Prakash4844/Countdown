@@ -40,10 +40,10 @@ Now you can run it from anywhere:
 countdown 5m
 ```
 
-## Screenshot
+## See in action
 
 <p align="center">
- <img width="" height="" alt="image" src="https://github.com/user-attachments/assets/264b927d-1b67-4f24-beb3-53072a970184" />
+ <img width="" height="" alt="gif" src="https://github.com/user-attachments/assets/92cdf395-2483-47ee-8749-f82f6aa6faf8" />
 </p>
 
 ---
